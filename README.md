@@ -1,2 +1,7 @@
 # B.tech_major_project
- INTEGRATION OF IOT AND FOG COMPUTING IN HEALTHCARE BASED THE SMART INTENSIVE UNITS
+
+INTEGRATION OF IOT AND FOG COMPUTING IN HEALTHCARE BASED THE SMART INTENSIVE UNITS
+
+we are using the json file from the thingspeak website the channel id gets the feed inthe array
+
+This study proposes a smart IoT-based system for monitoring ICU patients, which will tremendously reduce the risk of human mistakes when a patient is in 24/7 continuous monitoring. Our system is capable of monitoring a patient's several numbers of vital signs (such as temperature, SpO2, heartbeat, blood pressure, and ECG), along with the measurement of glucose, lactate, blood circulation, red blood cells, white blood cells, calcium, and potassium in the patient's fluids. It will alert the doctor and ECU personnel if any abnormalities are noticed. Fog nodes were utilized to store and process patients' data. Moreover, the nodes generate reports based on various health parameters data of a patient, which is further stored in the cloud. Besides, doctors and ECU personnel can real-time monitor ICU patients and view their reports from anywhere, anytime. We plan to increase data security and implement machine learning techniques into our current proposed work as future scope of improvement. Also, we will try to detect any blood clots in the ICU patients' veins and specific diseases related to them. To accomplish the proposed model's objectives, a set of experimental data has been enumerated and interpreted. However, the proposed system can be workable in real-time patients monitoring and proper automation of the cloud-based ICU.
