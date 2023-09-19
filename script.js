@@ -24,7 +24,7 @@ function fetchDataAndUpdate() {
       
     })
     .catch((error) => {
-      // Handle any errors that occur during the fetch or parsing
+
       console.log("Error:", error);
     });
 }
